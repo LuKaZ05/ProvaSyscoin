@@ -1,0 +1,1 @@
+Bom é uma aplicação bem simples na verdade, usei php,laragon,postman,heist. pra rodar foi bem tranquilo assim q criei o banco de dados e registrei o ususario e senha criei uma mensagem e assim rodei a aplicação com metodo get retornando um json.
